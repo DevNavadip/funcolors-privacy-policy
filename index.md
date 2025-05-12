@@ -1,0 +1,40 @@
+# Privacy Policy for FunColors
+
+**Effective Date:** [12-05-2025]
+
+FunColors ("we", "our", or "us") values your privacy. This privacy policy explains how our app handles user data and outlines our commitment to protecting your information.
+
+## 1. Audience
+FunColors is designed for general audiences, including children under the age of 13.
+
+## 2. Data Collection
+We do **not collect**, store, or process any personally identifiable information such as names, email addresses, phone numbers, or location data from our users.
+
+## 3. Analytics and Crash Reporting
+To improve app performance and understand usage trends, FunColors uses third-party services for analytics and crash reporting. These tools may collect non-personal data such as:
+- Device type and model
+- App version
+- Usage patterns
+- Crash logs
+
+We use this data solely for app improvement purposes. No personal or sensitive user data is collected or linked to a specific individual.
+
+## 4. Third-Party Services
+While FunColors uses analytics tools (e.g., Firebase Analytics or similar), we do **not** integrate third-party SDKs or APIs that collect personal data.
+
+## 5. User Accounts
+FunColors does not require users to register, log in, or create an account. No login credentials or user profiles are collected or stored.
+
+## 6. Data Sharing
+We do **not share any user data** with third parties for advertising, marketing, or any other purpose.
+
+## 7. Children’s Privacy
+We take children's privacy seriously. Since our app may be used by children under 13, we comply with COPPA (Children's Online Privacy Protection Act) by ensuring no personal data is collected or shared.
+
+## 8. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+
+## 9. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+**Email:** devnnm.mt@gmail.com
