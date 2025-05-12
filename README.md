@@ -1,0 +1,1 @@
+# funcolors-privacy-policy
