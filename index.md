@@ -19,22 +19,34 @@ To improve app performance and understand usage trends, FunColors uses third-par
 
 We use this data solely for app improvement purposes. No personal or sensitive user data is collected or linked to a specific individual.
 
-## 4. Third-Party Services
+## 4.Advertising and AdMob
+
+FunColors displays third-party advertisements through Google AdMob. AdMob may use mobile identifiers (such as your advertising ID) to serve personalized or non-personalized ads based on your settings.
+We comply with Google Play Families Policy and ensure that all ads shown are appropriate for children and general audiences.
+
+Google may collect:
+Device information
+Ad interactions
+App usage for ad measurement
+You can learn more about how Google uses data in their Privacy & Terms page.
+If you prefer not to receive personalized ads, you can adjust your preferences in your device settings.
+
+## 5. Third-Party Services
 While FunColors uses analytics tools (e.g., Firebase Analytics or similar), we do **not** integrate third-party SDKs or APIs that collect personal data.
 
-## 5. User Accounts
+## 6. User Accounts
 FunColors does not require users to register, log in, or create an account. No login credentials or user profiles are collected or stored.
 
-## 6. Data Sharing
+## 7. Data Sharing
 We do **not share any user data** with third parties for advertising, marketing, or any other purpose.
 
-## 7. Children’s Privacy
+## 8. Children’s Privacy
 We take children's privacy seriously. Since our app may be used by children under 13, we comply with COPPA (Children's Online Privacy Protection Act) by ensuring no personal data is collected or shared.
 
-## 8. Changes to This Policy
+## 9. Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
-## 9. Contact Us
+## 10. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
 **Email:** devnnm.mt@gmail.com
