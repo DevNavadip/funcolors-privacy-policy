@@ -1,9 +1,9 @@
 
 # Privacy Policy for FunColors
 
-**Effective Date:** 12-05-2025
+**Effective Date:** June 30, 2025
 
-FunColors (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how our app handles user data and outlines our commitment to protecting your information.
+FunColors (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how our mobile application handles user data and outlines our commitment to protecting your information.
 
 ---
 
@@ -21,74 +21,83 @@ We do not collect, store, or process any personally identifiable information suc
 
 ## 3. Analytics and Crash Reporting
 
-To improve app performance and understand usage trends, FunColors uses third-party services such as analytics and crash reporting. These tools may collect non-personal data, including:
+To improve app performance and user experience, FunColors uses third-party services (such as Firebase Analytics) that may collect non-personal data including:
 
-- Device type and model
-- App version
-- Usage patterns
+- Device type and model  
+- App version  
+- Usage patterns  
 - Crash logs
 
-This data is used solely for improving our app’s functionality and stability. No personal or sensitive information is collected or linked to individual users.
+This data is anonymized and used solely for diagnostic and improvement purposes.
 
 ---
 
 ## 4. Advertising and Consent
 
-FunColors displays third-party advertisements through Google AdMob. We have integrated Google’s User Messaging Platform (UMP) SDK to collect and manage user consent in compliance with GDPR and other applicable regulations.
+FunColors displays third-party advertisements through Google AdMob. We have integrated Google’s **User Messaging Platform (UMP) SDK** to request user consent in regions where required.
 
-**AdMob may collect and process information including:**
+### AdMob may collect:
 
-- Mobile device identifiers (such as your advertising ID)
-- Device information
-- Ad interactions
-- App usage data for ad measurement
+- Mobile advertising identifiers  
+- Device and network info  
+- App usage for ad measurement  
+- Interactions with ads
 
-If you are located in the European Economic Area (EEA), United Kingdom, or Switzerland, you will be presented with a consent form upon launching the app, allowing you to choose whether you consent to:
+Users in the European Economic Area (EEA), United Kingdom, and Switzerland are shown a consent form on app launch. You can choose to allow or restrict personalized ads.
 
-- Personalized ads
-- Non-personalized ads
-
-You can change your consent preferences at any time within the app or by clearing the app data in your device settings.
-
-For more information on how Google uses data, please visit [Google’s Privacy & Terms](https://policies.google.com/technologies/ads).
+More info on how Google uses data: [Google Privacy & Terms](https://policies.google.com/technologies/ads)
 
 ---
 
-## 5. Children’s Privacy
+## 5. US State Privacy Rights
 
-We take children’s privacy seriously. Since our app may be used by children under 13, we comply with the Children’s Online Privacy Protection Act (COPPA) and Google Play Families Policy by ensuring no personal information is collected or shared. All advertisements shown are appropriate for a general audience.
+Residents of US states (like California, Colorado, Virginia, etc.) have rights under local privacy laws (e.g., CCPA/CPRA). Our app displays a **US Privacy Notice** to users in applicable regions, giving them the option to opt out of data sharing and personalized ads.
 
----
-
-## 6. User Accounts
-
-FunColors does not require users to register, log in, or create an account. No login credentials or user profiles are collected or stored.
+Your privacy choices are presented via the UMP SDK. You may adjust your preferences anytime within the app or via your device’s ad settings.
 
 ---
 
-## 7. Data Sharing
+## 6. Children’s Privacy
 
-We do not share any user data with third parties for purposes unrelated to advertising, analytics, or compliance with legal obligations.
+We comply with the **Children’s Online Privacy Protection Act (COPPA)** and Google Play Families policies. Our app is suitable for general audiences, and no personal data is knowingly collected from children under 13.
 
----
-
-## 8. Your Choices
-
-You can manage your ad preferences and consent settings by:
-
-- Using the consent dialog presented in the app (for EEA/UK/Swiss users)
-- Adjusting your device settings to opt out of personalized advertising
+All advertisements shown are age-appropriate.
 
 ---
 
-## 9. Changes to This Policy
+## 7. User Accounts
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+FunColors does not require users to register, log in, or provide any personal credentials.
 
 ---
 
-## 10. Contact Us
+## 8. Data Sharing
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+We do not sell, rent, or share any user data with third parties except as required for analytics, advertising, or legal compliance. No personal identifiers are collected.
+
+---
+
+## 9. Your Choices
+
+You can:
+
+- Accept or decline ad personalization through in-app consent forms  
+- Manage ad settings on your device  
+- Clear app data to reset consent preferences
+
+You may also disable ad personalization through Google:  
+[www.google.com/settings/ads](https://www.google.com/settings/ads)
+
+---
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updates will be reflected on this page with a revised effective date.
+
+---
+
+## 11. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us:
 
 **Email:** devnnm.mt@gmail.com
